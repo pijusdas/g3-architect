@@ -377,6 +377,9 @@ main {
     justify-content: center;
     margin-bottom: 100px;
 }
+.footer-text{
+    color: #424242;
+}
 
 /* close footer */
 
